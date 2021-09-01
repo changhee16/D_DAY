@@ -1,0 +1,13 @@
+body{
+    background-color:darkslateblue;
+}
+
+h1{
+    color:floralwhite;
+    transition: color 0.1s ease-in-out; 
+}
+
+h2{
+    color:floralwhite;
+    transition: color 0.1s ease-in-out; 
+}
